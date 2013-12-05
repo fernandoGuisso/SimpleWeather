@@ -2,6 +2,6 @@ SimpleWeather
 =============
 
 Weather app using Yahoo! API
-Using user location to cath information on Yahoo Weather.
+Using user location to catch information on Yahoo Weather.
 
 Open workspace
